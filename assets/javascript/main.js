@@ -26,4 +26,4 @@ breakpoints: {
 });
 
 
-let open_menu= document.getElementById('open_menu')
+let open_menu= document.getElementById('open_menu');
